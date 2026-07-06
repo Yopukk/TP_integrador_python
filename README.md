@@ -18,8 +18,8 @@ Permite: Registrar el ingreso y egreso de vehiculos calculando el tiempo que per
 
 ```
 estacionamiento/
-├── main.py              # Menú principal y flujo del programa
-├── estacionamiento.py   # Funciones del sistema (lógica de negocio)
+├── main.py              
+├── estacionamiento.py   
 └── README.md
 ```
 
