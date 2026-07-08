@@ -81,7 +81,7 @@ def mostrar_espacios_disponibles(vehiculos_estacionados): #Muestra espacios disp
     print(f" Espacios disponibles: {disponibles}")
 
 
-def mostrar_estadisticas(historial): #uestra estadísticas: vehículos que ingresaron, tiempo promedio y ganancias totales.
+def mostrar_estadisticas(historial): #Muestra estadísticas: vehículos que ingresaron, tiempo promedio y ganancias totales.
     total_atendidos = len(historial)
 
     if total_atendidos == 0:
