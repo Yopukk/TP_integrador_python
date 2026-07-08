@@ -6,7 +6,7 @@ Trabajo Final Python - escesario 6
 - Gauna Ezequiel Andres
 - Encina Bruno David
 - Parras Bruno
-- Janzen Matias
+- Gomez Janzen Matias
 - Noriega Pereyra Benjamin
 
 ## Descripción
